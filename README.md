@@ -1,4 +1,4 @@
-# virtualGarden2
+# virtualgarden-2
 
 *Virtual Garden 2* (2020) is a continuation of *Virtual Garden* – the start of my exploration of abstract digital spaces. In contrast to the initial project, *Virtual Garden 2* is a 3D space that allows the user to experience a sense of surrounding.
 
